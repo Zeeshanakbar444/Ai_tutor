@@ -1,5 +1,5 @@
 // Global Configuration
-const API_KEY = 'AIzaSyDisorB5SFZscudEe6JJseoaWB37TipQM0';
+const API_KEY = 'AIzaSyA1NuS0_FHkRElQQFnbC3hgCicXvgdDjrc';
 // API endpoints are now handled via auto-fallback in callGeminiAPI logic
 
 // State Management
